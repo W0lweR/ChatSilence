@@ -1,0 +1,8 @@
+name: ChatSilence
+author: wolwer
+version: 1.0
+main: ru.wolwer.chatsilence.Main
+description: Toggle off chat for players
+commands:
+  silence:
+    description: Enable/disable Chat silence

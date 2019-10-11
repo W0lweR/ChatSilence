@@ -1,0 +1,7 @@
+Silence-status: 'disabled'
+Silence-enable-message: '&c&lChat is now silenced!'
+Silence-disable-message: '&a&lChat is no longer silenced'
+Silence-enabled-message: '&cYou cannot use chat, because it silenced!'
+Silence-command-permission: 'silence.cmd'
+Silence-bypass-permission: 'silence.bypass'
+Silence-no-permission-cmd: '&cYou ao not have permission to execute this command!'
