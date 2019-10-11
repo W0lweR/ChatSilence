@@ -1,2 +1,2 @@
 # ChatSilence
-Toggle chat on your server! MC-Version: 1.8.8
+# WARNING! The config.yml file is not saving! I will fix it later, but you can yse this sources. Good luck!
